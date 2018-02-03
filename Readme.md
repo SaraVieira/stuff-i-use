@@ -41,7 +41,7 @@ Well , In case I have to clean my computer like I have to next week 😑
 
 * Spectacle: https://www.spectacleapp.com/
 * Vannila: http://matthewpalmer.net/vanilla/
-* Copia: https://www.producthunt.com/posts/copia-for-mac -> Apparently this app died ! :(
+* Copia: https://www.producthunt.com/posts/copia-for-mac -> Apparently this app died ! :( maybe https://pasteapp.me
 * Alfred: https://www.alfredapp.com/
 * Muzzle: https://muzzleapp.com/
 * Overkill: https://krausefx.com/blog/introducing-overkill-dont-let-itunes-interrupt-your-workflow?ref=producthunt
