@@ -37,16 +37,30 @@ Well , In case I have to clean my computer like I have to next week 😑
 * Monosnap: https://monosnap.com/welcome
 * Kap: https://github.com/wulkano/kap
 
+## Human Interaction
+
+* Slack: https://slack.com/
+  * Find Workspaces: https://slack.com/signin/find
+* Discord: https://discordapp.com/
+
 ## "Productivity"
 
+* Postman: https://www.getpostman.com/
+* Dash: https://kapeli.com/dash
 * Spectacle: https://www.spectacleapp.com/
-* Vanilla: http://matthewpalmer.net/vanilla/
-* Copia: https://www.producthunt.com/posts/copia-for-mac -> Apparently this app died ! :(
+* Vannila: http://matthewpalmer.net/vanilla/
+* Vanilla: https://www.producthunt.com/posts/copia-for-mac -> Apparently this app died ! :(
+  * Maybe https://pasteapp.me is a good idea
 * Alfred: https://www.alfredapp.com/
 * Muzzle: https://muzzleapp.com/
 * Overkill: https://krausefx.com/blog/introducing-overkill-dont-let-itunes-interrupt-your-workflow?ref=producthunt
 * Rocket: http://matthewpalmer.net/rocket/
 * Irvue: http://irvue.tumblr.com/
+
+## Misc
+
+* Web Torrent: https://webtorrent.io/
+* Unrar Expander: https://itunes.apple.com/us/app/unrar-unarchiver-zip-rar-extractor-expander/id1071663619?mt=12
 
 ## Globally Installed Packages
 
