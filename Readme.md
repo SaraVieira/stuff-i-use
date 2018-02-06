@@ -24,7 +24,7 @@ Well , In case I have to clean my computer like I have to next week 😑
 
 * Spark: https://sparkmailapp.com/
 
-# Calendar
+## Calendar
 
 * Anyone got any recommendations ? :(
 
@@ -48,7 +48,6 @@ Well , In case I have to clean my computer like I have to next week 😑
 * Postman: https://www.getpostman.com/
 * Dash: https://kapeli.com/dash
 * Spectacle: https://www.spectacleapp.com/
-* Vannila: http://matthewpalmer.net/vanilla/
 * Vanilla: https://www.producthunt.com/posts/copia-for-mac -> Apparently this app died ! :(
   * Maybe https://pasteapp.me is a good idea
 * Alfred: https://www.alfredapp.com/
